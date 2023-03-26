@@ -25,9 +25,9 @@ Microservices are an architectural style that develops a single application as a
 # 4. Is Nodejs a multithreaded language?
    Node. js runs JavaScript code in a single thread, which means that your code can only do one task at a time. However, Node. js itself is multithreaded and provides hidden threads through the libuv library, which handles I/O operations like reading files from a disk or network requests.
 
-# What does REPL stand for?
+# 5. What does REPL stand for?
     REPL stand for -------> Read-Eval-Print Loop
     A Read-Eval-Print Loop, or REPL, is a computer environment where user inputs are read and evaluated, and then the results are returned to the user. REPLs provide an interactive environment to explore tools available in specific environments or programming languages.
 
-# 5. Create a javascript file and inside the file add code that will log in to the console, your name, your preferred programming language, and where you see yourself in the next 1 year.
+# 6. Create a javascript file and inside the file add code that will log in to the console, your name, your preferred programming language, and where you see yourself in the next 1 year.
     The javascript file name is my-vision.js
